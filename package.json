@@ -1,0 +1,16 @@
+{
+  "name": "@windate3411/utils",
+  "version": "1.0.0",
+  "description": "These are functions I often use while coding",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npm",
+    "package",
+    "windate3411"
+  ],
+  "author": "windate3411",
+  "license": "ISC"
+}
