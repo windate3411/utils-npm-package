@@ -1,3 +1,5 @@
+## 30Days chanllenge Day1 - tiny npm package!
+
 [![GitHub issues](https://img.shields.io/badge/npm-1.0.0-lightgreen)](https://github.com/windate3411/utils-npm-package)
 ## Descripition
 This package contains vary of functions I found myself used quite often while dealing with leetcode questions.
